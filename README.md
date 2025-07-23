@@ -1,0 +1,1 @@
+Este projeto é uma página web pessoal que apresenta informações sobre mim, minhas habilidades, projetos e formas de contato. Foi desenvolvido como parte do curso Dev Full Stack Jr para demonstrar habilidades em HTML5 semântico e CSS moderno.
